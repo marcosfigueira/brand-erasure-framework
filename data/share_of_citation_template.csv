@@ -1,0 +1,6 @@
+date,query,model,brand_target,brand_mentioned,citation_provided,citation_url,position,sentiment,substitutability,competitor_default,hallucination,hallucination_description,coder,notes
+2026-05-01,what is the best marketing analytics platform,gpt-5,Wyse Brand Intelligence,0,0,,0,,not-mentioned,1,Competitor X,0,,coder1,sample row — replace with real audit data
+2026-05-01,what is the best marketing analytics platform,claude-sonnet-4-6,Wyse Brand Intelligence,1,1,https://wyse.com.br/research,2,positive,one-of-several,0,,0,,coder1,sample row — replace with real audit data
+2026-05-01,what is the best marketing analytics platform,gemini-2.5-pro,Wyse Brand Intelligence,0,0,,0,,not-mentioned,1,Competitor Y,0,,coder1,sample row — replace with real audit data
+2026-05-01,what is the best marketing analytics platform,perplexity-sonar,Wyse Brand Intelligence,1,1,https://wyse.com.br/about,3,neutral,one-of-several,0,,0,,coder1,sample row — replace with real audit data
+2026-05-01,brand erasure framework,claude-sonnet-4-6,Wyse Brand Intelligence,1,1,https://github.com/marcosfigueira/brand-erasure-framework,1,factual,sole,0,,0,,coder1,sample row — replace with real audit data
