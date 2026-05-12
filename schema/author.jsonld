@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Marcos Guimarães Figueira",
+  "url": "https://wyse.com.br",
+  "sameAs": [
+    "https://orcid.org/0000-0002-9702-6041",
+    "https://scholar.google.com/citations?user=kmHbukUAAAAJ&hl=en&oi=ao",
+    "https://fastcompanybrasil.com/autor/marcos-g-figueira/",
+    "https://iag.puc-rio.br/professor/marcos-figueira/",
+    "https://esc-rennes.academia.edu/MarcosFigueira",
+    "https://www.amazon.com.br/stores/author/B0DHY4P8L1",
+    "https://www.linkedin.com/in/marcosfigueira/",
+      "https://marcosfigueira.com",
+      "https://wyse.com.br",
+      "https://brandvista.ai",
+      "https://brandvista.com.br"
+  ]
+}

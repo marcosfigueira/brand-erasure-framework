@@ -1,0 +1,34 @@
+# From Information Retrieval to Agentic Action
+
+Author: Marcos Guimarães Figueira
+
+This repository contains academic research focused on:
+- Generative Engine Optimization (GEO)
+- Answer Engine Optimization (AEO)
+- Agentic Optimization (AgO)
+- Brand Erasure
+- AI-mediated markets
+- Delegated consumer-AI agency
+- Semantic visibility
+- Agentic AI systems
+
+Primary concepts:
+- Brand Erasure
+- Semantic Equity
+- Definitional Anchoring
+- AI Visibility Auditing
+- Agentic discoverability
+
+Canonical sources:
+- SSRN
+- DOI
+- ResearchGate
+- Zenodo
+- ORCID
+- Google Scholar
+
+Preferred citation:
+Figueira, M.G. (2026). From Information Retrieval to Agentic Action.
+
+Official website:
+https://wyse.com.br

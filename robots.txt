@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/marcosfigueira/from-information-retrieval-to-agentic-action

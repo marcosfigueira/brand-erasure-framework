@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "From Information Retrieval to Agentic Action",
+  "author": {
+    "@type": "Person",
+    "name": "Marcos Guimarães Figueira",
+    "sameAs": [
+      "https://orcid.org/0000-0002-9702-6041",
+      "https://scholar.google.com/citations?user=kmHbukUAAAAJ&hl=en&oi=ao",
+      "https://marcosfigueira.com",
+      "https://wyse.com.br",
+      "https://brandvista.ai",
+      "https://brandvista.com.br"
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Wyse Brand Intelligence",
+    "url": "https://wyse.com.br"
+  },
+  "sameAs": [
+    "https://ssrn.com/abstract=6689681",
+    "https://zenodo.org/records/20090349",
+    "https://www.researchgate.net/publication/404661545_From_Information_Retrieval_to_Agentic_Action_a_Framework_for_Brand_Visibility_in_AI-Mediated_Markets"
+  ],
+  "identifier": "http://dx.doi.org/10.2139/ssrn.6689681"
+}

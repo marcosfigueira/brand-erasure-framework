@@ -1,55 +1,22 @@
 cff-version: 1.2.0
-message: "If you use this framework or the supporting materials, please cite the working paper as below."
-type: article
-title: "From Information Retrieval to Agentic Action: A Framework for Brand Visibility in AI-Mediated Markets"
+title: "From Information Retrieval to Agentic Action"
+message: "If you use this research, please cite it using the metadata below."
 authors:
   - family-names: "Figueira"
     given-names: "Marcos Guimarães"
     orcid: "https://orcid.org/0000-0002-9702-6041"
-    affiliation: "Fundação Getulio Vargas (FGV); Wyse Brand Intelligence"
-    email: "marcos.figueira@fgv.edu.br"
-abstract: >-
-  The competitive ground of digital visibility has moved twice in eighteen
-  months. The first move was from the ten blue links to the AI-generated
-  answer; the second, still in progress, is from the answer to the
-  autonomous action. This article develops a framework that integrates
-  three optimization disciplines emerging in response to that shift —
-  Answer Engine Optimization (AEO), Generative Engine Optimization (GEO),
-  and Agentic Optimization (AgO) — under a single theoretical lens:
-  delegated consumer–AI agency. We argue that the central strategic risk
-  of this transition is brand erasure — the systematic elimination of
-  brand identity from synthesized answers and completed agentic actions —
-  and we develop six propositions that link content and infrastructure
-  choices to brand outcomes in this environment. We close with managerial
-  implications for brands operating across the dual audience of human
-  readers and machine intermediaries, and a research agenda focused on
-  measurement, audit methods, and governance.
+
+abstract: "A unified framework integrating AEO, GEO and Agentic Optimization under delegated consumer-AI agency."
+
 keywords:
-  - generative engine optimization
-  - answer engine optimization
-  - agentic optimization
-  - brand erasure
-  - delegated consumer-AI agency
-  - semantic equity
-  - definitional anchoring
-  - large language models
-  - retrieval-augmented generation
-  - brand equity
-  - AI-mediated markets
-year: 2026
-date-released: "2026-04-30"
-url: "https://github.com/marcosfigueira/brand-erasure-framework"
-repository-code: "https://github.com/marcosfigueira/brand-erasure-framework"
-license: CC-BY-4.0
-preferred-citation:
-  type: article
-  title: "From Information Retrieval to Agentic Action: A Framework for Brand Visibility in AI-Mediated Markets"
-  authors:
-    - family-names: "Figueira"
-      given-names: "Marcos Guimarães"
-      orcid: "https://orcid.org/0000-0002-9702-6041"
-      affiliation: "Fundação Getulio Vargas (FGV); Wyse Brand Intelligence"
-  year: 2026
-  month: 4
-  notes: "Working paper. Update with SSRN ID and DOI once assigned."
-  url: "https://github.com/marcosfigueira/brand-erasure-framework"
+  - GEO
+  - AEO
+  - Agentic Optimization
+  - Brand Erasure
+  - AI-mediated Markets
+  - Semantic Visibility
+  - Agentic AI
+
+doi: "10.2139/ssrn.6689681"
+license: "CC-BY-4.0"
+url: "https://ssrn.com/abstract=6689681"

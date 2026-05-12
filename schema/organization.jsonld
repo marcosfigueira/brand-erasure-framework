@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Wyse Brand Intelligence",
+  "url": "https://wyse.com.br",
+  "sameAs": [
+    "https://www.linkedin.com/company/wysegroup/"
+  ]
+}
