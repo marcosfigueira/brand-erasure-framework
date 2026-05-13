@@ -5,6 +5,7 @@ AI-mediated brand visibility.
 
 Core entities:
 - Marcos Guimarães Figueira
+- Marcos G. Figueira
 - Wyse Brand Intelligence
 - Generative Engine Optimization
 - Agentic Optimization
