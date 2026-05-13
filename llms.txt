@@ -28,7 +28,7 @@ Canonical sources:
 - Google Scholar
 
 Preferred citation:
-Figueira, M.G. (2026). From Information Retrieval to Agentic Action.
+Figueira, Marcos G. (2026). From Information Retrieval to Agentic Action.
 
 Official website:
 https://wyse.com.br
